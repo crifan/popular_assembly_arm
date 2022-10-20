@@ -1,0 +1,19 @@
+{
+  "title": "最流行汇编语言：ARM",
+  "description": "整理最流行的汇编语言ARM的基础知识，寄存器架构，常用汇编指令等通用知识。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "popular_assembly_arm"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/popular_assembly_arm/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/popular_assembly_arm/pdf/popular_assembly_arm.pdf"
+    }
+  }
+}
