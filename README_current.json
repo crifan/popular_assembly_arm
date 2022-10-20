@@ -1,6 +1,6 @@
 {
   "latestVersion": "v0.3",
-  "lastUpdate": "20220615",
+  "lastUpdate": "20221020",
   "gitRepoName": "popular_assembly_arm",
   "bookName": "最流行汇编语言：ARM",
   "bookDescription": "整理最流行的汇编语言ARM的基础知识，寄存器架构，常用汇编指令等通用知识。"

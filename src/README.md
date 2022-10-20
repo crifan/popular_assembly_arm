@@ -1,7 +1,7 @@
 # 最流行汇编语言：ARM
 
 * 最新版本：`v0.3`
-* 更新时间：`20220615`
+* 更新时间：`20221020`
 
 ## 简介
 
@@ -13,7 +13,7 @@
 
 ### HonKit源码
 
-* [crifan/popular_assembly_arm: 最流行汇编语言：ARM](https://gitee.com/crifan/popular_assembly_arm)
+* [crifan/popular_assembly_arm: 最流行汇编语言：ARM](https://github.com/crifan/popular_assembly_arm)
 
 #### 如何使用此HonKit源码去生成发布为电子书
 
