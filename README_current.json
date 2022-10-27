@@ -1,7 +1,7 @@
 {
-  "latestVersion": "v0.3",
-  "lastUpdate": "20221020",
+  "latestVersion": "v0.6",
+  "lastUpdate": "20221027",
   "gitRepoName": "popular_assembly_arm",
   "bookName": "最流行汇编语言：ARM",
-  "bookDescription": "整理最流行的汇编语言ARM的基础知识，寄存器架构，常用汇编指令等通用知识。"
+  "bookDescription": "整理最流行的汇编语言ARM的相关内容。包括先概述，以及调用规范；ARM寄存器，包括寄存器架构、常用寄存器，比如IP和状态寄存器，以及其他寄存器；再解释ARM汇编指令，包括ARM汇编指令列表，包括按字母表顺序排列的、带操作码的；以及各种常用汇编指令，包括赋值、内存操作、比较、分支跳转、条件选择、寻址、算数运算、逻辑运算、SVC系统调用以及其他；继续整理了ARM常用用法和通用规则，包括函数调用、跳转指令、条件执行、Pre-Index和Post-Index、fleiable second oprand；最后附录上X86汇编。"
 }
