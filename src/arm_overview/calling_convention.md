@@ -25,7 +25,6 @@
 
 * ARM调用规范
     * 【已解决】ARM的ARM64汇编语法和寄存器、调用规范等基础知识
-    * 【已解决】32位ARM指令中cond即condition code field定义和语法
     * 【已解决】ARM64中寄存器用法规范
     * 【整理】ARM程序调用规范AAPCS：举例解释
     * 【已解决】IDA中xsp和xbp是什么意思如何定位地址
